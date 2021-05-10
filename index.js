@@ -51,10 +51,10 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`ڕیکلامەکە بنێرە بۆمن دایدەنێم☑️`) 
+client.user.setGame(`Hp-ڕیکلام بنێرە بۆمن`) 
 });
 
 
 
 
-client.login("");//تۆکین لێرە دانێ
+client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.RZ_N9MPBiQG97lu0adkFmUtlPO4");//تۆکین لێرە دانێ

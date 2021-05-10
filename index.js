@@ -6,7 +6,7 @@ client.on('message', message => {
 
 if (!message.guild) return; 
 
-if (message.content === 'p+wara') { 
+if (message.content === 'b!wara') { 
  if (!message.member.hasPermission("ADMINISTRATOR"))  return;
 if (message.member.voiceChannel) { 
 
@@ -21,7 +21,7 @@ message.member.voiceChannel.join()
 
 } else { 
 
-message.reply('**ئەگەر بەخۆت نێیە ڤۆیس ئەمنیش نایێم😂**'); 
+message.reply('**go to voice bro**'); 
 
 } 
 
@@ -38,8 +38,8 @@ if (message.content.startsWith("https://discord.gg/")) {
     
   message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/EXCuvNd`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
-  client.channels.get("755636700482633791").send(
-`> <:ARBELE_UPUP:791411050238836766> By: <@${message.author.id}> ✅ 
+  client.channels.get("link channel").send(
+`> <a:emoji_148:776883852571836416> By: <@${message.author.id}> ✅ 
 ${message.content}`)
 }
     }

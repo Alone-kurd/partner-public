@@ -57,4 +57,4 @@ client.user.setGame(`Hp-ڕیکلام بنێرە بۆمن`)
 
 
 
-client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.RZ_N9MPBiQG97lu0adkFmUtlPO4");//تۆکین لێرە دانێ
+client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.XDAqFh2Ks3swWYVsyvHBaMe7WbA");//تۆکین لێرە دانێ

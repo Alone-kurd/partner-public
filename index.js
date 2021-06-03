@@ -36,9 +36,9 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/gBSz3DkZfw`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/MauMKM7fJP`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
-  client.channels.get("837806140854108171").send(
+  client.channels.get("845727675808219196").send(
 `> :lying_face: :disguised_face:  By: <@${message.author.id}> ✅ 
 ${message.content}`)
 }
@@ -51,7 +51,7 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Hp-ڕیکلام بنێرە بۆمن`) 
+client.user.setGame(`DARK STAFF-ڕیکلام بنێرە بۆمن`) 
 });
 
 

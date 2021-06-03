@@ -57,4 +57,4 @@ client.user.setGame(`DARK STAFF-ڕیکلام بنێرە بۆمن`)
 
 
 
-client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.XDAqFh2Ks3swWYVsyvHBaMe7WbA");//تۆکین لێرە دانێ
+client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.KHR7yzTHdwZseZL5x7Le1urfREw");//تۆکین لێرە دانێ

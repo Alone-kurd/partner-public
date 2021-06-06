@@ -51,10 +51,10 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`DARK STAFF-ڕیکلام بنێرە بۆمن`) 
+client.user.setGame(`ڕیکلام بنێرە بۆمن`) 
 });
 
 
 
 
-client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.KHR7yzTHdwZseZL5x7Le1urfREw")//تۆکین لێرە دانێ
+client.login("NzYwNzk2MTYyMjg1ODk1NzIx.X3RQow.KHR7yzTHdwZseZL5x7Le1urfREw");//تۆکین لێرە دانێ
